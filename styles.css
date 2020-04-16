@@ -1,0 +1,35 @@
+body {
+    background-color: lightgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h2 {
+    color: purple; 
+}
+
+table {
+    margin: 0 auto;
+    border: 2px solid purple;
+}
+
+th {
+    background-color: plum;
+}
+
+span {
+    background-color: rgb(253, 253, 227);
+    font-family: courier;
+    font-size: smaller;
+}
+
+.td-border {
+    border-bottom: 1px solid purple;
+}
+
+
+
+
